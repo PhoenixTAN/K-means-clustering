@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545915648 source:d:\codeblocks\mycodeblocksworkplace\k_means_clustering\main.c
+	<stdio.h>
+	<stdlib.h>
+
